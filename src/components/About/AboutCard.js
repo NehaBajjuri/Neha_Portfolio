@@ -43,6 +43,7 @@ function AboutCard() {
         </blockquote>
       </Card.Body>
     </Card>
+    
   );
 }
 
