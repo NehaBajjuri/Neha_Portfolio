@@ -52,6 +52,17 @@ function Projects() {
               // demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+             // imgPath={editor}
+              isBlog={false}
+              title="ToDo App"
+              description="A full-stack web application that allows users to manage their tasks efficiently. Developed with React for the front-end, Go for the back-end API, and MongoDB as the database. This project enhanced my skills in building RESTful APIs with Go, connecting the front-end with MongoDB through create, read and delete operations, and managing state in React.
+               The app provides a seamless user experience for adding and deleting tasks in real-time."
+              ghLink="https://github.com/NehaBajjuri/Todo_react"
+              // demoLink="https://editor.soumya-jit.tech/"              
+            />
+          </Col>
 
        
         </Row>

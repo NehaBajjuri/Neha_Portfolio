@@ -6,8 +6,6 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import Experience from "./Experience";
 
-import Toolstack from "./Toolstack";
-
 function About() {
   return (
     <Container fluid className="about-section">
@@ -46,10 +44,10 @@ function About() {
 
         <Techstack />
 
-        <h1 className="project-heading">
+        {/* <h1 className="project-heading">
           <strong className="purple">Tools</strong> I use
-        </h1>
-        <Toolstack />
+        </h1> */}
+    
 {/* 
         <Github /> */}
       </Container>
