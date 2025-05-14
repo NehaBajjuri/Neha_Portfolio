@@ -24,7 +24,7 @@ function Projects() {
               isBlog={false}
               title="Chat Well"
               description="A mental health chatbot designed to offer personalized support and advice. Built using Rasa framework, this chatbot leverages Natural Language Understanding (NLU) and dialogue management to engage users empathetically. It provides a meaningful experience for users seeking guidance, enhancing my skills in NLP and Python."
-              // ghLink="https://github.com/soumyajit4419/Chatify"
+             ghLink="https://github.com/nehabajjuri/chatwell"
               // demoLink="https://chatify-49.web.app/"
             />
           </Col>
